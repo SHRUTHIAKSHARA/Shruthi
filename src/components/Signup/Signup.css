@@ -1,0 +1,11 @@
+.ccc {
+    /* fallback for old browsers */
+     /* fallback for old browsers */
+     background: #d490fc;
+  
+     /* Chrome 10-25, Safari 5.1-6 */
+     background: -webkit-linear-gradient(to right, #c624ee, #be36dd, #9236d8, #6a45b4);
+   
+     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     background: linear-gradient(to right, #c624ee, #be36dd, #9236d8, #6a45b4);
+  }
